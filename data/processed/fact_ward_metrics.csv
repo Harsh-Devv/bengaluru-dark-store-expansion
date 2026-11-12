@@ -1,0 +1,199 @@
+Ward Num,Zone,Population,Density Tier
+1,Yelahanka,34783,Low Density
+2,Yelahanka,36602,Medium Density
+3,Yelahanka,58129,High Density
+4,Yelahanka,41986,Medium Density
+5,Yelahanka,52025,High Density
+6,Yelahanka,71855,High Density
+7,Yelahanka,72154,High Density
+8,Yelahanka,47546,High Density
+9,Yelahanka,57195,High Density
+10,Yelahanka,36396,Medium Density
+11,Yelahanka,37128,Medium Density
+12,Yelahanka,61071,High Density
+13,Yelahanka,41482,Medium Density
+14,Bangalore North,65113,High Density
+15,Bangalore North,33042,Low Density
+16,Bangalore North,37959,Medium Density
+17,Bangalore North,49610,High Density
+18,Bangalore North,35122,Low Density
+19,Bangalore North,32491,Low Density
+20,Bangalore North,27361,Low Density
+21,Bangalore North,32516,Low Density
+22,Bangalore North,51592,High Density
+23,Bangalore North,60483,High Density
+24,Bangalore North,58967,High Density
+25,Bangalore North,95368,High Density
+26,Bangalore North,47358,High Density
+27,Bangalore North,51268,High Density
+28,Bangalore North,47074,High Density
+29,Bangalore North,33588,Low Density
+30,Bangalore North,45748,High Density
+31,Bangalore North,41936,Medium Density
+32,Bangalore North,39334,Medium Density
+33,Bangalore North,47926,High Density
+34,Bangalore North,24308,Low Density
+35,Dasarahalli,36738,Medium Density
+36,Dasarahalli,37036,Medium Density
+37,Dasarahalli,41107,Medium Density
+38,Dasarahalli,36879,Medium Density
+39,Dasarahalli,59289,High Density
+40,Dasarahalli,72794,High Density
+41,Dasarahalli,57814,High Density
+42,Dasarahalli,41352,Medium Density
+43,Dasarahalli,51200,High Density
+44,Dasarahalli,40212,Medium Density
+45,Bangalore West,34196,Low Density
+46,Bangalore West,31449,Low Density
+47,Bangalore West,42135,Medium Density
+48,Bangalore West,35814,Medium Density
+49,Bangalore East,37955,Medium Density
+50,Bangalore East,49094,High Density
+51,Bangalore East,46159,High Density
+52,Bangalore East,35168,Low Density
+53,Bangalore East,48585,High Density
+54,Bangalore East,50191,High Density
+55,Bangalore East,33946,Low Density
+56,Bangalore East,43443,Medium Density
+57,Bangalore East,58815,High Density
+58,Bangalore East,43983,Medium Density
+59,Bangalore East,40362,Medium Density
+60,Bangalore East,35334,Low Density
+61,Bangalore East,38050,Medium Density
+62,Bangalore East,34394,Low Density
+63,Bangalore East,21728,Low Density
+64,Bangalore West,31118,Low Density
+65,Bangalore West,35609,Low Density
+66,Bangalore West,35709,Low Density
+67,Bangalore West,34574,Low Density
+68,Bangalore West,44615,Medium Density
+69,Bangalore West,57077,High Density
+70,Bangalore West,61479,High Density
+71,Bangalore West,66314,High Density
+72,Bangalore West,62272,High Density
+73,Bangalore West,68922,High Density
+74,Bangalore West,43844,Medium Density
+75,Bangalore West,48734,High Density
+76,Bangalore West,33236,Low Density
+77,Bangalore West,33388,Low Density
+78,Bangalore West,28835,Low Density
+79,Bangalore West,37291,Medium Density
+80,Bangalore West,35228,Low Density
+81,Bangalore East,57062,High Density
+82,Mahadevapura,49631,High Density
+83,Mahadevapura,43942,Medium Density
+84,Mahadevapura,50556,High Density
+85,Mahadevapura,63083,High Density
+86,Bangalore East,39768,Medium Density
+87,Bangalore East,39926,Medium Density
+88,Bangalore East,38251,Medium Density
+89,Bangalore East,33793,Low Density
+90,Bangalore East,35090,Low Density
+91,Bangalore East,32689,Low Density
+92,Bangalore East,37506,Medium Density
+93,Bangalore East,22815,Low Density
+94,Bangalore West,31208,Low Density
+95,Bangalore West,37693,Medium Density
+96,Bangalore West,38110,Medium Density
+97,Bangalore West,35721,Low Density
+98,Bangalore West,32913,Low Density
+99,Bangalore West,33084,Low Density
+100,Bangalore West,30333,Low Density
+101,Bangalore West,30051,Low Density
+102,Bangalore West,50893,High Density
+103,Bangalore West,53532,High Density
+104,Bangalore West,26873,Low Density
+105,Bangalore West,28355,Low Density
+106,Bangalore West,24181,Low Density
+107,Bangalore West,36461,Medium Density
+108,Bangalore West,33866,Low Density
+109,Bangalore East,33292,Low Density
+110,Bangalore East,27504,Low Density
+111,Bangalore East,22995,Low Density
+112,Bangalore East,30638,Low Density
+113,Bangalore East,38108,Medium Density
+114,Bangalore East,36916,Medium Density
+115,Bangalore East,37060,Medium Density
+116,Bangalore East,48534,High Density
+117,Bangalore East,42095,Medium Density
+118,Bangalore East,28784,Low Density
+119,Bangalore East,27076,Low Density
+120,Bangalore West,37344,Medium Density
+121,Bangalore West,37354,Medium Density
+122,Bangalore West,40032,Medium Density
+123,Bangalore West,40331,Medium Density
+124,Bangalore West,37347,Medium Density
+125,Bangalore West,21171,Low Density
+126,Bangalore West,29319,Low Density
+127,Bangalore West,43729,Medium Density
+128,Bangalore West,35780,Medium Density
+129,Bangalore West,68132,High Density
+130,Bangalore West,58199,High Density
+131,Bangalore West,42785,Medium Density
+132,Bangalore West,41487,Medium Density
+133,Bangalore West,35113,Low Density
+134,Bangalore West,49484,High Density
+135,Bangalore West,37599,Medium Density
+136,Bangalore West,38639,Medium Density
+137,Bangalore West,36039,Medium Density
+138,Bangalore West,24801,Low Density
+139,Bangalore West,29344,Low Density
+140,Bangalore West,32213,Low Density
+141,Bangalore West,38825,Medium Density
+142,Bangalore South,34666,Low Density
+143,Bangalore South,32462,Low Density
+144,Bangalore South,34879,Low Density
+145,Bangalore South,38309,Medium Density
+146,Bangalore South,30667,Low Density
+147,Bangalore South,34299,Low Density
+148,Bangalore South,47004,High Density
+149,Bangalore South,54625,High Density
+150,Bangalore South,80180,High Density
+151,Bangalore South,38316,Medium Density
+152,Bangalore South,39997,Medium Density
+153,Bangalore South,38151,Medium Density
+154,Bangalore South,32640,Low Density
+155,Bangalore South,36982,Medium Density
+156,Bangalore South,41379,Medium Density
+157,Bangalore South,34653,Low Density
+158,Bangalore South,45928,High Density
+159,Bangalore South,40771,Medium Density
+160,Bangalore South,56897,High Density
+161,Bangalore South,46805,High Density
+162,Bangalore South,43195,Medium Density
+163,Bangalore South,45572,Medium Density
+164,Bangalore South,43483,Medium Density
+165,Bangalore South,25998,Low Density
+166,Bangalore South,27040,Low Density
+167,Bangalore South,32756,Low Density
+168,Bangalore South,28353,Low Density
+169,Bangalore South,32066,Low Density
+170,Bangalore South,33927,Low Density
+171,Bangalore South,48991,High Density
+172,Bangalore South,42624,Medium Density
+173,Bangalore South,33521,Low Density
+174,Bangalore South,63033,High Density
+175,Bangalore South,43585,Medium Density
+176,Bangalore South,52250,High Density
+177,Bangalore South,28846,Low Density
+178,Bangalore South,31034,Low Density
+179,Bangalore South,25871,Low Density
+180,Bangalore South,42171,Medium Density
+181,Bangalore South,47182,High Density
+182,Bangalore South,41037,Medium Density
+183,Bangalore South,43364,Medium Density
+184,Bangalore South,57209,High Density
+185,Bangalore South,46943,High Density
+186,Bommanahalli,38294,Medium Density
+187,Bommanahalli,49207,High Density
+188,Bommanahalli,49884,High Density
+189,Bommanahalli,68554,High Density
+190,Bommanahalli,65890,High Density
+191,Bommanahalli,71004,High Density
+192,Bommanahalli,80037,High Density
+193,Bommanahalli,58355,High Density
+194,Mahadevapura,51911,High Density
+195,Mahadevapura,57335,High Density
+196,Mahadevapura,45608,Medium Density
+197,Mahadevapura,62057,High Density
+198,Mahadevapura,50440,High Density
